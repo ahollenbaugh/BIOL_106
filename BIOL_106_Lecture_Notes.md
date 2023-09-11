@@ -132,3 +132,78 @@
 - plants have three genomes
 - photosynthetic protists (secondary endosymbiosis)
 - engulfment of other protist plant groups like red algae
+
+## Monday, September 11, 2023
+
+- Other Eukaryotic lineages
+- have tree ready rather than having to rely on slides
+- midterm in person, not open book
+- Alveolata
+    - syn: small sacs for gas exchange, structural support, alveoli
+    - 3 major groups to know:
+        - dinoflagellates
+            - red tide
+            - toxic bloom
+            - morphology - plates come together
+        - ciliates (paramecium)
+            - little hairs called cilia for movement in aqautic env
+            - marine plankton, digestive tract of grazers
+        - apicomplexan (plasmodium)
+            - malaria
+                - mosquito bites have it in saliva
+                - common in crowded areas
+- Stramenopila
+    - syn: hairy flagellum
+    - in same group as alveolata
+    - 3 major groups
+        - brown algae*
+    - 'seaweeds' and kelp
+- Excavata
+    - syn: loss of mtDNA
+    - giardia - diarrhea, severe cramping, not bacteria, unicellular, excavated feeding groove on side of cell
+    - trypanosoma - chagas disease and sleeping sickness, kissing bug bites lips while sleeping, poops in the wound, trypanosoma in bug will infect you, no cure, lifelong disease, huge human health concern in central/south america, keep walls totally white so they can easily spot insects, sleep under mosquito nets, attracted to exhaled co2, don't scratch, wash out mouth, flu-like symptoms 3 days after being bit
+- Amoebozoa
+    - syn: amoeboid form
+    - slime molds
+        - amoeboid action - sliding
+        - important decomposers in forests
+- There is no protist synapomorphy bc they are paraphyletic
+    - but these are synapomorphies of "protist" lineages that we just covered
+
+## Lecture 4
+
+- Plants
+- we're both eukaryotes, common syn is mtDNA
+- endosymbiosis
+    - primary - engulf cyanobacteria - chloroplast dna in all plants
+- originated in water, so did plants and everything else
+- steps in diversification of plants
+    - move from water to land
+    - evolve structures to become big (vascular tissue)
+    - evolve seeds and flowers
+- some aquatic plants evolved from terrestrial ancestors
+- plantae - monophyletic
+    - red algae - PROTIST
+        - syn: high levels of phycoerythrin
+            - phyco - plant
+            - erythrin - red
+            - can live at greater depths and absorb light at lower light levels (do photosynthesis)
+            - stabilize coral reefs bc calcium carbonate skeleton
+            - can find washed up on beach!
+            - they look like crumbly tiny skeletons
+            - nori
+    - green algae - PROTIST
+        - can be uni/multicellular or colonial
+        - ulva - edible, model organism commonly used in scientific research
+        - fresh/marine water
+        - ancestor of land plants
+        - pink snow - green algae with red carotenoid pigments
+        - multicellular green algal groups gave rise to multicellular land plants
+    - stoneworts - PROTIST
+    - bryophytes
+    - ferns and allies
+    - seed plants
+- red algae are basal to green plants (they come before)
+- green plants synapomorphies:
+    - 2 kinds of chlorophyll
+    - store photosynthetic products as starch
