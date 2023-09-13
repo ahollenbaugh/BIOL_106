@@ -207,3 +207,89 @@
 - green plants synapomorphies:
     - 2 kinds of chlorophyll
     - store photosynthetic products as starch
+
+## Wednesday, September 13, 2023
+
+- extra credit + lottery for extra five pts
+- about 40 minutes
+- can get 10 pts max
+
+Lecture
+- aquatic plants moved to land
+- stoneworts
+    - multicellular
+    - aquatic
+    - last aquatic plant
+    - bottom of lakes
+
+Tree
+- red algae, green, stoneworts, all underwater
+- then land plants: non-vascular land plants, seedless vascular, seeds
+
+What's important for a land plant?
+- survival in air
+    - prevent water loss
+        - cuticles are waxy and do this
+            - succulents, leaves
+            - a syn for LAND PLANTS
+    - stomata
+        - gas exchange
+        - not in very first land plant (liverworts)
+        - starts with mosses, non-vascular land plants
+    - those were syns
+- stay upright in air
+    - vascular tissue
+    - exception: liverworts, mosses, hornworts
+        - small size
+    - lignin - woody substance (tree bark, branches)
+    - provides structure and support
+    - vascular plants and seed plants
+- reproduce in air
+    - embryo retention
+        - novel for plants
+        - offspring used to float in the water and developed outside of the plant, got nutrients and such from water
+        - embryo stays on plant and gets nutrients from it
+
+- plant diversity
+    - plants start as non-vascular, like mosses, small size
+    - then, vascular but seedless
+    - last, vascular and seeds
+
+- non-vascular plants
+    - liverworts
+        - know where they are in the tree, and know they're non-vascular
+    - mosses
+        - peat moss for energy source
+
+- seedless vascular plants
+    - ferns
+
+- how to study
+    - make your own tree and label it
+    - today's slides contain four practice trees
+    - use them to figure out where you need to study more
+
+## Lecture 5
+
+- descent with modification
+    - roots, shoots, leaves
+- alternation of generations
+    - protect gametes
+    - uniting gametes
+    - chromosomes in human genome
+    - diploid cells (two copies of every chromosome except for sex chromosomes)
+    - n = chromosomes
+    - 2n => diploid
+        - most of your cells are diploid
+    - n => haploid
+        - egg = 1n, sperm = 1n
+        - zygote maximally can be 2n
+    - mitosis
+        - cell division that results in replication
+        - every few minutes our cells are regenerating
+    - meiosis
+        - cell division that reduces number of chromosomes by half
+        - one 2n -> one 4n -> two 2n -> four n
+    - what if our eggs and sperm established themselves as their own organism? this is what plants do
+- sporophyted dominated life cycle
+- heterospory
