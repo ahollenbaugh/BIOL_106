@@ -293,3 +293,81 @@ What's important for a land plant?
     - what if our eggs and sperm established themselves as their own organism? this is what plants do
 - sporophyted dominated life cycle
 - heterospory
+
+## Monday, September 18, 2023
+
+Absent
+
+## Wednesday, September 20, 2023
+
+- Took notes on iPad
+
+## Monday, September 25, 2023
+
+- choanoflagellates
+    - protists
+    - opisthokonta
+    - features
+        - flagella for feeding
+        - sessile as adults
+    - resemble sponges, which are animals
+- animals
+    - features (not synapomorphies)
+        - multicellular
+        - ingest their food
+        - move under their own power, complex movement
+        - internal digestion
+        - sexual reproduction
+    - all animals except sponges
+        - nerve cells
+        - muscle cells
+    - diversification based on these innovations
+        - sensing env
+        - feeding
+        - moving
+        - reproduction
+    - Choanoflagellates
+        - sponges (Porifera)
+    - five architectural features
+        - embryonic tissue
+            - 0 layers (sponges), 2 layers (cnidaria), or 3 layers (everything else)
+            - diploblasts, triploblasts
+            - ectoderm - skin, nervous system
+            - endoderm - digestive tract
+            - mesoderm - circulatory system, organs, bone, muscle (triploblasts)
+        - symmetry
+            - none (sponges)
+            - radial (corals)
+            - bilateral
+                - coincides with evolution of cephalization (head with nervous system)
+                - associated with triploblasts
+        - body cavity/coelom
+            - triploblasts only (not all)
+                - two organisms
+            - fluid-filled space between digestive tract and body wall
+            - cushions internal organs
+            - acoelomates - none
+            - acoelomates and coelomates are both bilateral triploblasts
+            - protostomes and deuterostomes have a coelom
+        - embryonic development
+            - 1st hole = mouth or anus?
+                - stoma = mouth
+                - mouth first = protostomes
+                - anus first = deuterostomes
+
+    - porifera/sponges
+        - benthic (bottom of marine systems)
+        - mobile larvae
+    - cnidaria
+        - mostly marine
+        - radially symmetric
+        - diploblasts
+        - nematocysts - specialized cells that capture prey
+    - ctenophora
+        - mostly marine
+        - no toxins that capture prey, just adhesives in tentacles
+    - acoelomorpha
+        - bilateral
+        - trip
+        - distinct anterior/posterior end
+        - small worms
