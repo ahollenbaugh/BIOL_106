@@ -371,3 +371,38 @@ Absent
         - trip
         - distinct anterior/posterior end
         - small worms
+
+Monday, November 27, 2023
+
+- **community**: multiple species interacting with each other
+- **fundamental niche**: where a species could potentially live assuming no competitors
+- **realized niche**: where it actually lives
+- species interactions influence realized niche
+- **competition**: -/- (negative effect on fitness of species 1 and species 2)
+    - **interspecific** (2+ species)
+    - **intraspecific** (1 species)
+    - has cost to fitness (injury, loss of energy, etc.)
+    - **character displacement**: evolve differences in sympatry to avoid competition (think finches)
+        - disruptive selection
+        - reinforcement
+    - **competitive exclusion hypothesis**
+        - competitors can't coexist
+        - competition is asymmetric (unequal fitness among species)
+        - "are these species competitors?"
+        - does this species have a large fundamental niche or are fundamental and realized niches equal?
+    - **fitness tradeoffs**
+- predation: +/-
+    - consumption types:
+        - **predation**
+        - **herbivory**
+            - **top-down control hypothesis**: herbivore is limited by disease or predators
+            - **bottom-up control hypothesis**: plants provide poor nutrition or are well-protected against herbivory
+    - traits that evolved through natural selection to avoid being eaten:
+        - **camouflage**
+            - **cryptic coloration**
+        - **schooling** (safety in numbers)
+        - **weaponry** (fighting back)
+    - **mimicry**
+        - **Mullerian mimicry**: species looks and is dangerous
+        - **Batesian mimicry**: species only looks dangerous
+- mutualism: +/+
